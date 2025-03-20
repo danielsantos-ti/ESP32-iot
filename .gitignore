@@ -1,0 +1,17 @@
+# Ignorar arquivos e pastas de logs do backend
+backend/logs/
+
+# Ignorar dependências do Node.js
+backend/node_modules/
+
+# Ignorar arquivos de compilação do PlatformIO
+firmware/.pio/
+firmware/build/
+
+# Ignorar arquivos do VSCode
+.vscode/
+
+# Ignorar arquivos temporários e de cache
+*.log
+*.tmp
+*.swp

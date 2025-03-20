@@ -9,7 +9,7 @@
             "name": "PlatformIO",
             "includePath": [
                 "C:/Users/User/Documents/PlatformIO/Projects/ESP32-iot/include",
-                "C:/Users/User/Documents/PlatformIO/Projects/ESP32-iot/src",
+                "C:/Users/User/Documents/PlatformIO/Projects/ESP32-iot/firmware/src",
                 "C:/Users/User/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/newlib/platform_include",
                 "C:/Users/User/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/freertos/include",
                 "C:/Users/User/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/freertos/include/esp_additions/freertos",
@@ -245,7 +245,7 @@
                 "limitSymbolsToIncludedHeaders": true,
                 "path": [
                     "C:/Users/User/Documents/PlatformIO/Projects/ESP32-iot/include",
-                    "C:/Users/User/Documents/PlatformIO/Projects/ESP32-iot/src",
+                    "C:/Users/User/Documents/PlatformIO/Projects/ESP32-iot/firmware/src",
                     "C:/Users/User/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/newlib/platform_include",
                     "C:/Users/User/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/freertos/include",
                     "C:/Users/User/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/freertos/include/esp_additions/freertos",
